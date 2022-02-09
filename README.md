@@ -2,7 +2,7 @@
 
 ## Author
 Wooyoung Kim  
-Seoul National University  
+Department of Eletrical & Computer Engineering, Seoul National University  
 vhehfhvl4@gmail.com
 
 ## About code
